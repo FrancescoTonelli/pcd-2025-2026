@@ -1,34 +1,15 @@
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/bballs/BallAgent.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/bballs/BallViewer.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/bballs/BasicAgent.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/bballs/BouncingBalls.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/bballs/Boundary.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/bballs/Context.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/bballs/ControlPanel.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/bballs/P2d.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/bballs/V2d.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/bballs/ViewerFrame.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/AuxLib.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/Screen.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/TestAuxLib.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/TestScreen.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/solution/CountDownAgent.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/solution/TestFallingWords.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/solution/WordFallingAgent.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/solution2/CountDownAgent.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/solution2/MiscLib.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/solution2/PauseNotifierAgent.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/solution2/Screen.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/solution2/TestFallingWords.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex01/solution2/WordFallingAgent.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex02/SequentialSort.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex02/solution/AbstractWorker.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex02/solution/ConcurrentSortGeneral.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex02/solution/ConcurrentSortTwoThreads.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex02/solution/MergingWorkerGeneral.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex02/solution/MergingWorkerTwoParts.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/ex02/solution/SortingWorker.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/hello/Main.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/hello/MyRunnable.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/hello/MyThread.java
-/Users/a.ricci/Corsi/2024-2025/PCD-2024-2025/Lab/lab-01/src/main/java/pcd/lab01/hello/SimpleClock.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\bballs\BallAgent.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\bballs\BallViewer.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\bballs\BasicAgent.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\bballs\BouncingBalls.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\bballs\Boundary.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\bballs\Context.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\bballs\ControlPanel.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\bballs\P2d.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\bballs\V2d.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\bballs\ViewerFrame.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\ex01\SequentialSort.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\hello\Main.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\hello\MyRunnable.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\hello\MyThread.java
+C:\Users\wfaff\Desktop\Università\Programmazione Concorrente\pcd-2025-2026\lab-activities\lab-activity-01\src\main\java\pcd\lab01\hello\SimpleClock.java

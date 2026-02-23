@@ -17,7 +17,11 @@ public class SimpleClock extends Thread {
 		log("started.");
 		while (!stopped) {
 			log(new Date().toString());
-			waitAbit();
+			try{
+				waitAbit();
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
 		}
 		log("stopped.");
 	}
@@ -31,7 +35,7 @@ public class SimpleClock extends Thread {
 		try {
 			Thread.sleep(interval);
 		} catch (InterruptedException ex) {
-			ex.printStackTrace();
+			log(ex.getMessage());
 		}
 	}
 	
