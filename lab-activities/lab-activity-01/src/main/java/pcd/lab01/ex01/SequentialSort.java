@@ -10,7 +10,8 @@ public class SequentialSort {
 	
 	public static void main(String[] args) {
 	
-		log("Generating array...");
+		log("Num elements to sort: " + VECTOR_SIZE);
+		log("Generating array.");
 		var v = genArray(VECTOR_SIZE);
 		
 		log("Array generated.");
