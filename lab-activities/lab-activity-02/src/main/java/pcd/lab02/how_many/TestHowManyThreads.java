@@ -13,7 +13,7 @@ public class TestHowManyThreads {
 					counter.addAndGet(1);
 					try {
 						Thread.sleep(5000);
-					} catch (Exception ex) {}
+					} catch (Exception ignored) {}
 				}).start();
 			}
 		} catch (java.lang.OutOfMemoryError ex) {

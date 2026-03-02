@@ -7,7 +7,7 @@ public class Test {
 	
 	public static void main(String[] args) {
 
-		int nWorkers = 1; // Runtime.getRuntime().availableProcessors();
+		int nWorkers = Runtime.getRuntime().availableProcessors();
 		
 		long totalAmountOfCPUJob = 400_000_000;
 		long totalAmountOfIOJob = 20000; 
@@ -34,7 +34,7 @@ public class Test {
 		for (var w: workers) {
 			try {
 				w.join();
-			} catch (Exception ex) {}
+			} catch (Exception ignored) {}
 		}
 		
 		var t1 = System.currentTimeMillis();
